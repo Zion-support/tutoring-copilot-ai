@@ -1,22 +1,17 @@
-# 🌐 Part of the Zion AI App Network
+# 🌐 Zion AI App Network
 
-This app is part of the **Zion AI App Network** — 800+ free, open-source AI apps and tools by [Zion Tech Group](https://ziontechgroup.com).
+This app is part of the **Zion AI App Network** — 850+ interlinked AI apps by Zion Tech Group.
 
-## 🔗 Network Links
-- **Network hub (live):** https://ziontechgroup.com/zion-app-network/
-- **GitHub hub:** https://github.com/Zion-support/zion-app-network
-- **Apps index:** https://github.com/Zion-support/zion-app-network/blob/main/APPS_INDEX.md
-- **Catalog:** https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md
+## 🔗 Network links
+- Network hub: https://ziontechgroup.com/zion-app-network/
+- Latest updates: https://github.com/Zion-support/zion-app-network/blob/main/APP_NETWORK_LATEST.md
+- **Free Discovery (2 min, always free):** https://ziontechgroup.com/discovery/
 
-## 🔎 Free AI Discovery (always online, always free)
-Not sure which apps fit your stack? Take the **free 2-minute AI Discovery questionnaire** — personalized picks emailed instantly to you and our commercial team:
-- https://ziontechgroup.com/discovery/ (PT-BR)
-- https://ziontechgroup.com/app-network-discovery.html (EN)
+## 🎓 Batch 93 — Education & Green Tech AI
+- [Student Progress Radar](https://github.com/Zion-support/student-progress-radar) — https://ziontechgroup.com/student-progress-radar/
+- Tutoring Copilot AI (this repo)
+- [Website Carbon Estimator](https://github.com/Zion-support/website-carbon-estimator) — https://ziontechgroup.com/website-carbon-estimator/
+- [Water Usage Optimizer](https://github.com/Zion-support/water-usage-optimizer) — https://ziontechgroup.com/water-usage-optimizer/
+- Showcase: https://ziontechgroup.com/zion-app-network/app/network-batch93-showcase.html
 
-## 🧩 Related apps
-- https://ziontechgroup.com/student-progress-radar/
-- https://ziontechgroup.com/knowledge-base-copilot/
-- https://ziontechgroup.com/zion-app-network/
-
----
-© Zion Tech Group · commercial@ziontechgroup.com
+Contact: commercial@ziontechgroup.com · https://ziontechgroup.com
